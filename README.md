@@ -1,9 +1,14 @@
-# group_projects
+# Group Project
 
-## subtitle
+
+## Summary
+* [Subtitle](#subtitle)
+* [Other Subtitle](#other-subtitle)
+
+## Subtitle
 
 ![Abba Image](ABBA_TopPop_1974.png)
 
-### subsubtitle
+## Other Subtitle
 
 This is a line.
